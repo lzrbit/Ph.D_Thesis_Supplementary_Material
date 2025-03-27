@@ -3,6 +3,11 @@
 
 
 ## 说明
+[实车实验视频链接](https://www.bilibili.com/video/BV19jQfYoEQA/?spm_id_from=333.1387.homepage.video_card.click&vd_source=fb0124b2265a6b088a1e0d8f7212d526)
+
+https://www.bilibili.com/video/BV19jQfYoEQA/?spm_id_from=333.1387.homepage.video_card.click&vd_source=fb0124b2265a6b088a1e0d8f7212d526
+
+## 说明
 考虑博士论文篇幅原因，特将相关补充实验结果置于外部链接中。主要针对博士论文第3章和第4章内容。
 ## 文件夹结构如下
 ```
